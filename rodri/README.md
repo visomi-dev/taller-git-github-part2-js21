@@ -1,0 +1,3 @@
+# Rodri
+
+Software developer
